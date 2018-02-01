@@ -2,7 +2,7 @@
 
 #### _A backend for RPGs_
 
-#### By _**Sam Gespass**_
+#### By _**Sam Gespass, Anduin Mooney, Rodney, Ross Fletcher**_
 
 ## Description
 
